@@ -94,13 +94,11 @@ Bu kodun uyguladığı beş adımlı protokolün tam açıklaması için tezin *
 
 ---
 
-## Zenodo / DOI (Kalıcı Arşiv)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21329052.svg)](https://doi.org/10.5281/zenodo.21329052)
 
-Bu repo Zenodo ile bağlandığında...
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-...
+Bu repo Zenodo ile bağlıdır; her yeni GitHub "release"i otomatik olarak arşivlenir ve kalıcı bir DOI alır. Yukarıdaki DOI (`10.5281/zenodo.21329052`) tüm sürümleri kapsar ve her zaman en güncel sürüme yönlenir — makale/tez atıflarında bu numarayı kullanın.
 
-*(GitHub–Zenodo bağlantısı kurulup ilk release yapıldıktan sonra yukarıdaki `XXXXXXX` kısmını Zenodo'nun size verdiği gerçek numarayla değiştirin.)*
+İlk sürüm (v1.0.0) için spesifik DOI: `10.5281/zenodo.21329053`
 
 ---
 
