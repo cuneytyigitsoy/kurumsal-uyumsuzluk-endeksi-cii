@@ -96,9 +96,9 @@ Bu kodun uyguladığı beş adımlı protokolün tam açıklaması için tezin *
 
 ## Zenodo / DOI (Kalıcı Arşiv)
 
-Bu repo Zenodo ile bağlandığında, her GitHub "release"i otomatik olarak arşivlenir ve kalıcı bir DOI alır. Bağlantı kurulduktan sonra DOI rozetini buraya ekleyin:
-
+Bu repo Zenodo ile bağlandığında...
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+...
 
 *(GitHub–Zenodo bağlantısı kurulup ilk release yapıldıktan sonra yukarıdaki `XXXXXXX` kısmını Zenodo'nun size verdiği gerçek numarayla değiştirin.)*
 
